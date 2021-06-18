@@ -11,6 +11,7 @@ public class CompareArrayNumbers {
    * @param a - Some Integer Number
    * @param b - Another Integer Number
    * @return The result of a + b
+   * @return The result of a + b
    */
   public static List<Integer> max(List<Integer> a, List<Integer> b) {
     //TODO: Implement me
